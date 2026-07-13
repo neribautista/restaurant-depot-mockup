@@ -67,12 +67,6 @@ function LoginForm() {
         </button>
       </form>
 
-      <div className="mt-6 rounded-sm bg-cream-dark p-4 text-xs text-ink/60">
-        <p className="mb-1 font-semibold text-ink">Demo credentials</p>
-        <p>Member (approved): member@demo.com / member123</p>
-        <p>Admin: admin@restaurantdepot.com / admin123</p>
-      </div>
-
       <p className="mt-6 text-center text-xs text-ink/50">
         Not a member yet?{" "}
         <a href="/register" className="font-semibold text-navy underline">Apply for an account</a>
