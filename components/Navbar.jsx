@@ -16,11 +16,11 @@ const MENUS = {
     { label: "Careers", href: "https://jobs.rapidhire.ukg.net/jetrord" },
     { label: "Our Brands", href: "/about/our-brands" },
     { label: "Product Videos", href: "/about/product-videos" },
-    { label: "Testimonials", href: "/about/testimonials" }, //TODO : 1 more picture of any customer 
+    { label: "Testimonials", href: "/about/testimonials" },
   ],
   Locations: [
     { label: "Find a Warehouse", href: "/locations" },
-    { label: "Locations Coming Soon", href: "/locations#coming-soon" }, 
+    { label: "Locations Coming Soon", href: "/locations#coming-soon" },
     { label: "Holiday Closures", href: "/locations#holidays" },
   ],
   Resources: [
@@ -128,8 +128,11 @@ export default function Navbar() {
   return (
     <>
       <header className="sticky top-0 z-50 bg-white shadow-md">
-        <div className="mx-auto flex max-w-7xl items-center justify-between px-6 py-3">
-          <Link href={isJetroPage ? "/jetro" : "/"} className="flex items-center gap-3">
+        <div className="mx-auto flex max-w-7xl items-center justify-between gap-3 px-4 py-2.5 sm:px-6 sm:py-3">
+          <Link
+            href={isJetroPage ? "/jetro" : "/"}
+            className="flex min-w-0 items-center gap-2 sm:gap-3"
+          >
             {isJetroPage ? (
               <Image
                 src="/images/jetro-logo.png"
@@ -137,7 +140,7 @@ export default function Navbar() {
                 width={230}
                 height={70}
                 priority
-                className="h-12 w-auto"
+                className="h-9 w-auto sm:h-12"
               />
             ) : (
               <>
@@ -147,12 +150,14 @@ export default function Navbar() {
                   width={44}
                   height={44}
                   priority
-                  className="h-11 w-11"
+                  className="h-9 w-9 shrink-0 sm:h-11 sm:w-11"
                 />
 
-                <span className="font-display text-lg tracking-wide text-navy">
-                  Restaurant Depot
-                  <span className="block -mt-1 text-[10px] font-body font-medium uppercase tracking-widest2 text-gold-deep">
+                <span className="font-display leading-tight text-navy">
+                  <span className="block whitespace-nowrap text-sm tracking-wide sm:text-lg">
+                    Restaurant Depot
+                  </span>
+                  <span className="hidden whitespace-nowrap text-[10px] font-body font-medium uppercase tracking-widest2 text-gold-deep sm:block">
                     Where Restaurants Shop
                   </span>
                 </span>
@@ -204,7 +209,7 @@ export default function Navbar() {
             )}
           </nav>
 
-          <div className="flex items-center gap-4">
+          <div className="flex shrink-0 items-center gap-2 sm:gap-4">
             {!isAdmin && canViewCatalog && (
               <button
                 onClick={() => setCartOpen(true)}
@@ -230,12 +235,23 @@ export default function Navbar() {
             )}
 
             {!user && !isJetroPage && (
-              <Link
-                href="/login"
-                className="rounded-sm border border-gold px-4 py-1.5 text-sm font-medium text-gold-deep transition-colors hover:bg-gold hover:text-navy"
-              >
-                Sign In / Register
-              </Link>
+              <div className="flex items-center gap-1.5 sm:gap-3">
+                <Link
+                  href="/login"
+                  className="whitespace-nowrap text-xs font-medium text-navy transition-colors hover:text-gold-deep sm:text-sm"
+                >
+                  Sign In
+                </Link>
+
+                <span className="h-4 w-px bg-navy/20" aria-hidden="true" />
+
+                <Link
+                  href="/register"
+                  className="whitespace-nowrap rounded-sm border border-gold px-2.5 py-1 text-xs font-medium text-gold-deep transition-colors hover:bg-gold hover:text-navy sm:px-4 sm:py-1.5 sm:text-sm"
+                >
+                  Register
+                </Link>
+              </div>
             )}
 
             {user && isApprovedMember && (
