@@ -311,8 +311,7 @@ export default function SearchBar({
                   onMouseDown={() => goToPage(page)}
                   className="flex w-full items-center gap-2 rounded-sm px-2 py-2 text-left text-sm text-ink hover:bg-cream"
                 >
-                  <span className="text-gold-deep">↗</span>
-                  Go to <span className="font-semibold">{page.label}</span>
+                  <span className="font-semibold">{page.label}</span>
                 </button>
               ))}
             </div>
