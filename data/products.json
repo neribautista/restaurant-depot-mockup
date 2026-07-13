@@ -1,0 +1,22 @@
+[
+  { "id": "f1", "name": "USDA Select Boneless Ribeyes", "unit": "per lb", "price": 12.35, "category": "Meat & Poultry", "image": "/images/flyer/f1.png", "video": "/images/flyer/f1.mp4" },
+  { "id": "f2", "name": "Fresh Pineapple, 5/6 ct", "unit": "case", "price": 19.45, "category": "Produce", "image": "/images/flyer/f2.png", "video": "/images/flyer/f2.mp4" },
+  { "id": "f3", "name": "Black Tiger Shrimp, Raw Headless 8/12ct", "unit": "per lb", "price": 11.00, "category": "Fish & Seafood", "image": "/images/flyer/f3.png", "video": "/images/flyer/f3.mp4" },
+  { "id": "f4", "name": "Fresh Whole Chicken, 3 lb & up", "unit": "per lb", "price": 1.49, "category": "Meat & Poultry", "image": "/images/flyer/f4.png", "video": "/images/flyer/f4.mp4" },
+  { "id": "f5", "name": "USDA Select Boneless Butts", "unit": "per lb", "price": 1.99, "category": "Meat & Poultry", "image": "/images/flyer/f5.png", "video": "/images/flyer/f5.mp4" },
+  { "id": "f6", "name": "Jack/Cheddar Cheese Shreds", "unit": "per lb", "price": 2.05, "category": "Dairy & Cheese", "image": "/images/flyer/f6.png", "video": "/images/flyer/f6.mp4" },
+  { "id": "f7", "name": "Straight Cut French Fries, 3/8 inch", "unit": "case", "price": 25.50, "category": "Grocery & Supplies", "image": "/images/flyer/f7.png", "video": "/images/flyer/f7.mp4" },
+  { "id": "f8", "name": "Fresh Whole Sea Bream, 23 lb", "unit": "per lb", "price": 6.99, "category": "Fish & Seafood", "image": "/images/flyer/f8.png", "video": "/images/flyer/f8.mp4" },
+  { "id": "f9", "name": "Farmland Tavern Ham, Fully Cooked", "unit": "per lb", "price": 2.75, "category": "Meat & Poultry", "image": "/images/flyer/f9.png", "video": "/images/flyer/f9.mp4" },
+  { "id": "f10", "name": "Pinto Beans, Triple Cleaned, 50 lb", "unit": "bag", "price": 23.49, "category": "Grocery & Supplies", "image": "/images/flyer/f10.png", "video": "/images/flyer/f10.mp4" },
+  { "id": "p1", "name": "FROZEN BEEF All Natural Beef Burger PattiesBurger Patties", "unit": "per lb", "price": 4.99, "category": "Meat & Poultry", "image": "/images/flyer/p1.png", "video": "/flyer/p1.mp4" },
+  { "id": "p2", "name": "Butterball Frozen Ground Turkey", "unit": "per lb", "price": 2.69, "category": "Meat & Poultry", "image": "/images/flyer/p2.png", "video": "/images/flyer/p2.mp4" },
+  { "id": "p3", "name": "Rosa Grande Pepperoni, 5 lb", "unit": "each", "price": 5.59, "category": "Meat & Poultry", "image": "/images/flyer/p3.png", "video": "/flyer/p3.mp4" },
+  { "id": "p4", "name": "Center Cut Pork Chops", "unit": "per lb", "price": 2.50, "category": "Meat & Poultry", "image": "/images/flyer/p4.png", "video": "/flyer/p4.mp4" },
+  { "id": "p5", "name": "Fresh Watermelon", "unit": "each", "price": 6.49, "category": "Produce", "image": "/images/flyer/p5.png", "video": "/flyer/p5.mp4" },
+  { "id": "p6", "name": "Driscoll's Strawberries, 8/1 lb", "unit": "case", "price": 2.75, "category": "Produce", "image": "/images/flyer/p6.png", "video": "/flyer/p6.mp4" },
+  { "id": "p7", "name": "Phillips Crab Claw Meat", "unit": "each", "price": 13.99, "category": "Fish & Seafood", "image": "/images/flyer/p7.png", "video": "/flyer/p7.mp4" },
+  { "id": "p8", "name": "Always Fresh Chicken Leg Quarters", "unit": "per lb", "price": 0.69, "category": "Meat & Poultry", "image": "/images/flyer/p8.png", "video": "/flyer/p8.mp4" },
+  { "id": "p9", "name": "Bronzini, Whole 800/1000", "unit": "per lb", "price": 8.49, "category": "Fish & Seafood", "image": "/images/flyer/p9.png", "video": "/flyer/p9.mp4" },
+  { "id": "p10", "name": "Snow Crab 5/8 Clusters", "unit": "per lb", "price": 12.00, "category": "Fish & Seafood", "image": "/images/flyer/p10.png", "video": "/flyer/p10.mp4" }
+]

@@ -1,0 +1,3437 @@
+[
+  {
+    "name": "Birmingham, AL",
+    "address": "126 Wildwood Parkway",
+    "cityState": "Homewood, AL",
+    "zip": "35209",
+    "phone": "(205) 942-2211",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 7:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "9:00 AM \u2013 3:00 PM"
+    },
+    "tags": [],
+    "lat": 33.4653,
+    "lng": -86.8082
+  },
+  {
+    "name": "Mesa, AZ",
+    "address": "724 W Baseline Rd",
+    "cityState": "Mesa, AZ",
+    "zip": "85210",
+    "phone": "(480) 834-4063",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 6:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "8:00 AM \u2013 3:00 PM"
+    },
+    "tags": [],
+    "lat": 33.3887,
+    "lng": -111.8428
+  },
+  {
+    "name": "Phoenix, AZ",
+    "address": "3812 N Black Canyon",
+    "cityState": "Phoenix, AZ",
+    "zip": "85017",
+    "phone": "(602) 200-8000",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 6:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "8:00 AM \u2013 3:00 PM"
+    },
+    "tags": [
+      "Wine & Spirits"
+    ],
+    "lat": 33.5153,
+    "lng": -112.1212
+  },
+  {
+    "name": "Tucson, AZ",
+    "address": "601 W 22nd Street",
+    "cityState": "Tucson, AZ",
+    "zip": "85713",
+    "phone": "(520) 882-4840",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 6:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "8:00 AM \u2013 3:00 PM"
+    },
+    "tags": [
+      "Wine & Spirits",
+      "Seafood"
+    ],
+    "lat": 32.1941,
+    "lng": -110.9739
+  },
+  {
+    "name": "Anaheim, CA",
+    "address": "1265 N Kraemer Blvd",
+    "cityState": "Anaheim, CA",
+    "zip": "92806",
+    "phone": "(714) 666-9205",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 6:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "8:00 AM \u2013 4:00 PM"
+    },
+    "tags": [
+      "Wine & Spirits"
+    ],
+    "lat": 33.8356,
+    "lng": -117.8681
+  },
+  {
+    "name": "Bakersfield, CA",
+    "address": "4821 Ming Ave",
+    "cityState": "Bakersfield, CA",
+    "zip": "93309",
+    "phone": "(661) 241-8614",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 6:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "8:00 AM \u2013 4:00 PM"
+    },
+    "tags": [
+      "Wine & Spirits",
+      "Seafood"
+    ],
+    "lat": 35.3384,
+    "lng": -119.0627
+  },
+  {
+    "name": "Colton, CA",
+    "address": "2150 Oliver Holmes Rd",
+    "cityState": "Colton, CA",
+    "zip": "92324",
+    "phone": "(909) 514-1770",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 6:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "8:00 AM \u2013 4:00 PM"
+    },
+    "tags": [
+      "Restaurant Depot Express"
+    ],
+    "lat": 34.0315,
+    "lng": -117.2874
+  },
+  {
+    "name": "Concord, CA",
+    "address": "1965 Arnold Industrial Way",
+    "cityState": "Concord, CA",
+    "zip": "94520",
+    "phone": "(925) 644-0038",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 6:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "8:00 AM \u2013 4:00 PM"
+    },
+    "tags": [
+      "Wine & Spirits",
+      "Seafood"
+    ],
+    "lat": 37.9823,
+    "lng": -122.0362
+  },
+  {
+    "name": "Fresno, CA",
+    "address": "1550 E Street",
+    "cityState": "Fresno, CA",
+    "zip": "93706",
+    "phone": "(559) 495-0160",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 6:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "8:00 AM \u2013 4:00 PM"
+    },
+    "tags": [],
+    "lat": 36.6486,
+    "lng": -119.9987
+  },
+  {
+    "name": "Huntington Beach, CA",
+    "address": "17332 Gothard Street",
+    "cityState": "Huntington Beach, CA",
+    "zip": "92647",
+    "phone": "(714) 375-0195",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 6:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "8:00 AM \u2013 4:00 PM"
+    },
+    "tags": [],
+    "lat": 33.721,
+    "lng": -118.0033
+  },
+  {
+    "name": "Jefferson, CA",
+    "address": "5333 W Jefferson Blvd",
+    "cityState": "Los Angeles, CA",
+    "zip": "90016",
+    "phone": "(323) 964-1220",
+    "hours": {
+      "Mon": "6:00 AM \u2013 5:00 PM",
+      "Tue": "6:00 AM \u2013 5:00 PM",
+      "Wed": "6:00 AM \u2013 5:00 PM",
+      "Thu": "6:00 AM \u2013 5:00 PM",
+      "Fri": "6:00 AM \u2013 5:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "8:00 AM \u2013 4:00 PM"
+    },
+    "tags": [
+      "Wine & Spirits",
+      "Seafood"
+    ],
+    "lat": 34.0298,
+    "lng": -118.3528
+  },
+  {
+    "name": "Long Beach, CA",
+    "address": "2300 E 68th St",
+    "cityState": "Long Beach, CA",
+    "zip": "90805",
+    "phone": "(562) 634-6771",
+    "hours": {
+      "Mon": "6:00 AM \u2013 5:00 PM",
+      "Tue": "6:00 AM \u2013 5:00 PM",
+      "Wed": "6:00 AM \u2013 5:00 PM",
+      "Thu": "6:00 AM \u2013 5:00 PM",
+      "Fri": "6:00 AM \u2013 5:00 PM",
+      "Sat": "7:00 AM \u2013 5:00 PM",
+      "Sun": "9:00 AM \u2013 2:00 PM"
+    },
+    "tags": [
+      "Wine & Spirits",
+      "Seafood"
+    ],
+    "lat": 33.8635,
+    "lng": -118.1801
+  },
+  {
+    "name": "Miramar, CA",
+    "address": "7466 Carroll Rd",
+    "cityState": "San Diego, CA",
+    "zip": "92121",
+    "phone": "(858) 564-0466",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 6:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "8:00 AM \u2013 4:00 PM"
+    },
+    "tags": [
+      "Wine & Spirits"
+    ],
+    "lat": 32.8919,
+    "lng": -117.2035
+  },
+  {
+    "name": "Oakland, CA",
+    "address": "400 High St",
+    "cityState": "Oakland, CA",
+    "zip": "94601",
+    "phone": "(510) 628-0600",
+    "hours": {
+      "Mon": "6:00 AM \u2013 6:00 PM",
+      "Tue": "6:00 AM \u2013 6:00 PM",
+      "Wed": "6:00 AM \u2013 6:00 PM",
+      "Thu": "6:00 AM \u2013 6:00 PM",
+      "Fri": "6:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "8:00 AM \u2013 4:00 PM"
+    },
+    "tags": [
+      "Wine & Spirits",
+      "Seafood"
+    ],
+    "lat": 37.7806,
+    "lng": -122.2166
+  },
+  {
+    "name": "Pasadena, CA",
+    "address": "180 N San Gabriel Blvd",
+    "cityState": "Pasadena, CA",
+    "zip": "91107",
+    "phone": "(626) 744-0204",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 6:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "8:00 AM \u2013 4:00 PM"
+    },
+    "tags": [
+      "Wine & Spirits",
+      "Seafood"
+    ],
+    "lat": 34.151,
+    "lng": -118.0889
+  },
+  {
+    "name": "Rohnert Park, CA",
+    "address": "5000 Dowdell Ave",
+    "cityState": "Rohnert Park, CA",
+    "zip": "94928",
+    "phone": "(707) 293-2299",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 6:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "8:00 AM \u2013 4:00 PM"
+    },
+    "tags": [
+      "Wine & Spirits",
+      "Seafood"
+    ],
+    "lat": 38.347,
+    "lng": -122.6941
+  },
+  {
+    "name": "Roseville, CA",
+    "address": "7651 Foothills Blvd",
+    "cityState": "Roseville, CA",
+    "zip": "95747",
+    "phone": "(916) 462-9380",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 6:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "8:00 AM \u2013 4:00 PM"
+    },
+    "tags": [
+      "Wine & Spirits"
+    ],
+    "lat": 38.7703,
+    "lng": -121.3372
+  },
+  {
+    "name": "Sacramento, CA",
+    "address": "1275 Vine Street",
+    "cityState": "Sacramento, CA",
+    "zip": "95811",
+    "phone": "(916) 492-2305",
+    "hours": {
+      "Mon": "6:00 AM \u2013 6:00 PM",
+      "Tue": "6:00 AM \u2013 6:00 PM",
+      "Wed": "6:00 AM \u2013 6:00 PM",
+      "Thu": "6:00 AM \u2013 6:00 PM",
+      "Fri": "6:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "8:00 AM \u2013 4:00 PM"
+    },
+    "tags": [],
+    "lat": 38.5762,
+    "lng": -121.488
+  },
+  {
+    "name": "San Diego, CA",
+    "address": "1335 Cesar E Chavez Pkwy",
+    "cityState": "San Diego, CA",
+    "zip": "92113",
+    "phone": "(619) 233-0200",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 6:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "8:00 AM \u2013 4:00 PM"
+    },
+    "tags": [
+      "Wine & Spirits",
+      "Seafood"
+    ],
+    "lat": 32.697,
+    "lng": -117.1153
+  },
+  {
+    "name": "San Francisco, CA",
+    "address": "2045 Evans Ave",
+    "cityState": "San Francisco, CA",
+    "zip": "94124",
+    "phone": "(415) 920-2888",
+    "hours": {
+      "Mon": "6:00 AM \u2013 6:00 PM",
+      "Tue": "6:00 AM \u2013 6:00 PM",
+      "Wed": "6:00 AM \u2013 6:00 PM",
+      "Thu": "6:00 AM \u2013 6:00 PM",
+      "Fri": "6:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "8:00 AM \u2013 4:00 PM"
+    },
+    "tags": [
+      "Wine & Spirits",
+      "Seafood"
+    ],
+    "lat": 37.7309,
+    "lng": -122.3886
+  },
+  {
+    "name": "San Jose, CA",
+    "address": "520 Brennan St",
+    "cityState": "San Jose, CA",
+    "zip": "95131",
+    "phone": "(408) 432-0107",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 6:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "8:00 AM \u2013 4:00 PM"
+    },
+    "tags": [
+      "Wine & Spirits",
+      "Seafood"
+    ],
+    "lat": 37.3864,
+    "lng": -121.88
+  },
+  {
+    "name": "San Marcos, CA",
+    "address": "700 Rancheros Dr",
+    "cityState": "San Marcos, CA",
+    "zip": "92069",
+    "phone": "(760) 761-0255",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 6:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "8:00 AM \u2013 4:00 PM"
+    },
+    "tags": [
+      "Wine & Spirits",
+      "Seafood"
+    ],
+    "lat": 33.1444,
+    "lng": -117.1697
+  },
+  {
+    "name": "Stockton, CA",
+    "address": "1015 W Hammer Ln",
+    "cityState": "Stockton, CA",
+    "zip": "95209",
+    "phone": "209-242-8003",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 6:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "8:00 AM \u2013 4:00 PM"
+    },
+    "tags": [
+      "Wine & Spirits",
+      "Seafood"
+    ],
+    "lat": 38.0377,
+    "lng": -121.3445
+  },
+  {
+    "name": "Torrance, CA",
+    "address": "19901 Hamilton Ave",
+    "cityState": "Torrance, CA",
+    "zip": "90502",
+    "phone": "(310) 516-7400",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 6:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "8:00 AM \u2013 4:00 PM"
+    },
+    "tags": [
+      "Restaurant Depot Express"
+    ],
+    "lat": 33.8286,
+    "lng": -118.292
+  },
+  {
+    "name": "Van Nuys, CA",
+    "address": "15853 Strathern St Bldg C",
+    "cityState": "Van Nuys, CA",
+    "zip": "91406",
+    "phone": "(818) 376-7676",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 6:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "8:00 AM \u2013 4:00 PM"
+    },
+    "tags": [
+      "Wine & Spirits"
+    ],
+    "lat": 34.2006,
+    "lng": -118.4868
+  },
+  {
+    "name": "Vernon, CA",
+    "address": "2300 E 57th St",
+    "cityState": "Vernon, CA",
+    "zip": "90058",
+    "phone": "(323) 583-0800",
+    "hours": {
+      "Mon": "6:00 AM \u2013 4:00 PM",
+      "Tue": "6:00 AM \u2013 4:00 PM",
+      "Wed": "6:00 AM \u2013 5:00 PM",
+      "Thu": "6:00 AM \u2013 5:00 PM",
+      "Fri": "6:00 AM \u2013 4:00 PM",
+      "Sat": "7:00 AM \u2013 3:00 PM",
+      "Sun": "9:00 AM \u2013 2:00 PM"
+    },
+    "tags": [
+      "Wine & Spirits",
+      "Seafood"
+    ],
+    "lat": 33.9994,
+    "lng": -118.2133
+  },
+  {
+    "name": "Walnut, CA",
+    "address": "20405 West Walnut Drive",
+    "cityState": "Walnut, CA",
+    "zip": "91789",
+    "phone": "(909) 595-6506",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 6:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "8:00 AM \u2013 4:00 PM"
+    },
+    "tags": [
+      "Wine & Spirits"
+    ],
+    "lat": 34.0183,
+    "lng": -117.8546
+  },
+  {
+    "name": "Washington BLVD, CA",
+    "address": "1611 E Washington Blvd",
+    "cityState": "Los Angeles, CA",
+    "zip": "90021",
+    "phone": "(213) 516-0301",
+    "hours": {
+      "Mon": "6:00 AM \u2013 5:00 PM",
+      "Tue": "6:00 AM \u2013 5:00 PM",
+      "Wed": "6:00 AM \u2013 5:00 PM",
+      "Thu": "6:00 AM \u2013 5:00 PM",
+      "Fri": "6:00 AM \u2013 5:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "8:00 AM \u2013 4:00 PM"
+    },
+    "tags": [
+      "Wine & Spirits"
+    ],
+    "lat": 34.0333,
+    "lng": -118.2447
+  },
+  {
+    "name": "Colorado Springs, CO",
+    "address": "507 N Academy Blvd",
+    "cityState": "Colorado Springs, CO",
+    "zip": "80909",
+    "phone": "(719) 789-5697",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 6:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "8:00 AM \u2013 4:00 PM"
+    },
+    "tags": [
+      "Wine & Spirits",
+      "Seafood"
+    ],
+    "lat": 38.852,
+    "lng": -104.7735
+  },
+  {
+    "name": "Denver, CO",
+    "address": "1740 W 13th Avenue",
+    "cityState": "Denver, CO",
+    "zip": "80204",
+    "phone": "(303) 260-6005",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 6:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "8:00 AM \u2013 4:00 PM"
+    },
+    "tags": [
+      "Restaurant Depot Express"
+    ],
+    "lat": 39.734,
+    "lng": -105.0259
+  },
+  {
+    "name": "Greenwood Village, CO",
+    "address": "6875 S Clinton St",
+    "cityState": "Greenwood Village, CO",
+    "zip": "80112",
+    "phone": "(303) 768-8700",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 6:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "8:00 AM \u2013 4:00 PM"
+    },
+    "tags": [
+      "Seafood"
+    ],
+    "lat": 39.5805,
+    "lng": -104.9011
+  },
+  {
+    "name": "Hartford, CT",
+    "address": "265 Reverend Moody Overpass",
+    "cityState": "Hartford, CT",
+    "zip": "06120",
+    "phone": "(860) 549-4000",
+    "hours": {
+      "Mon": "6:00 AM \u2013 6:00 PM",
+      "Tue": "6:00 AM \u2013 6:00 PM",
+      "Wed": "6:00 AM \u2013 6:00 PM",
+      "Thu": "6:00 AM \u2013 7:00 PM",
+      "Fri": "6:00 AM \u2013 6:00 PM",
+      "Sat": "7:30 AM \u2013 4:00 PM",
+      "Sun": "9:00 AM \u2013 2:00 PM"
+    },
+    "tags": [
+      "Wine & Spirits"
+    ],
+    "lat": 41.786,
+    "lng": -72.6758
+  },
+  {
+    "name": "Orange, CT",
+    "address": "181 Marsh Hill Rd",
+    "cityState": "Orange, CT",
+    "zip": "06477",
+    "phone": "(203) 795-9900",
+    "hours": {
+      "Mon": "6:00 AM \u2013 6:00 PM",
+      "Tue": "6:00 AM \u2013 6:00 PM",
+      "Wed": "6:00 AM \u2013 6:00 PM",
+      "Thu": "6:00 AM \u2013 7:00 PM",
+      "Fri": "6:00 AM \u2013 6:00 PM",
+      "Sat": "7:30 AM \u2013 4:00 PM",
+      "Sun": "9:00 AM \u2013 2:00 PM"
+    },
+    "tags": [
+      "Seafood"
+    ],
+    "lat": 41.2815,
+    "lng": -73.0287
+  },
+  {
+    "name": "Waterbury, CT",
+    "address": "3580 East Main St",
+    "cityState": "WATERBURY, CT",
+    "zip": "06705",
+    "phone": "(203) 596-0040",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 7:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:30 AM \u2013 4:00 PM",
+      "Sun": "9:00 AM \u2013 2:00 PM"
+    },
+    "tags": [
+      "Seafood"
+    ],
+    "lat": 41.5503,
+    "lng": -72.9963
+  },
+  {
+    "name": "Wilmington, DE",
+    "address": "200 Cornell Dr",
+    "cityState": "Wilmington, DE",
+    "zip": "19801",
+    "phone": "(302)777-2470",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 7:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "9:00 AM \u2013 2:00 PM"
+    },
+    "tags": [
+      "Seafood"
+    ],
+    "lat": 39.7378,
+    "lng": -75.5497
+  },
+  {
+    "name": "Beachline West, FL",
+    "address": "9485 S John Young Pkwy",
+    "cityState": "Orlando, FL",
+    "zip": "32819",
+    "phone": null,
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 7:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "8:00 AM \u2013 5:00 PM",
+      "Sun": "9:00 AM \u2013 2:00 PM"
+    },
+    "tags": [
+      "Seafood"
+    ],
+    "lat": 28.4522,
+    "lng": -81.4678
+  },
+  {
+    "name": "Boynton Beach, FL",
+    "address": "1520 SW 8th St",
+    "cityState": "Boynton, FL",
+    "zip": "33426",
+    "phone": "(561) 880-2483",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 7:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 5:00 PM",
+      "Sun": "9:00 AM \u2013 3:00 PM"
+    },
+    "tags": [
+      "Wine & Spirits"
+    ],
+    "lat": 26.5175,
+    "lng": -80.0834
+  },
+  {
+    "name": "Davie, FL",
+    "address": "3500 Davie Road",
+    "cityState": "Davie, FL",
+    "zip": "33314",
+    "phone": "(954) 577-0470",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 7:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 5:00 PM",
+      "Sun": "9:00 AM \u2013 3:00 PM"
+    },
+    "tags": [
+      "Wine & Spirits",
+      "Seafood"
+    ],
+    "lat": 26.0697,
+    "lng": -80.2246
+  },
+  {
+    "name": "Daytona Beach, FL",
+    "address": "2455 W International Speedway Blvd",
+    "cityState": "Daytona Beach, FL",
+    "zip": "32114",
+    "phone": "(386) 287-5967",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 6:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "8:00 AM \u2013 3:00 PM"
+    },
+    "tags": [
+      "Wine & Spirits",
+      "Seafood"
+    ],
+    "lat": 29.2012,
+    "lng": -81.0371
+  },
+  {
+    "name": "Fort Myers, FL",
+    "address": "17751 South Tamiami Trail",
+    "cityState": "Fort Myers, FL",
+    "zip": "33908",
+    "phone": "(239) 437-6090",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 7:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 5:00 PM",
+      "Sun": "9:00 AM \u2013 3:00 PM"
+    },
+    "tags": [
+      "Restaurant Depot Express"
+    ],
+    "lat": 26.5025,
+    "lng": -81.9276
+  },
+  {
+    "name": "Gainesville, FL",
+    "address": "7303 NW 4th Blvd",
+    "cityState": "Gainesville, FL",
+    "zip": "32607",
+    "phone": "(404) 460-9596",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 6:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "8:00 AM \u2013 3:00 PM"
+    },
+    "tags": [
+      "Wine & Spirits",
+      "Seafood"
+    ],
+    "lat": 29.6456,
+    "lng": -82.4033
+  },
+  {
+    "name": "Jacksonville, FL",
+    "address": "3389 Powers Avenue",
+    "cityState": "Jacksonville, FL",
+    "zip": "32207",
+    "phone": "(904) 733-1005",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 7:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 5:00 PM",
+      "Sun": "9:00 AM \u2013 3:00 PM"
+    },
+    "tags": [
+      "Restaurant Depot Express"
+    ],
+    "lat": 30.2908,
+    "lng": -81.6321
+  },
+  {
+    "name": "Kissimmee, FL",
+    "address": "2020 S Poinciana Blvd",
+    "cityState": "Kissimmee, FL",
+    "zip": "34758",
+    "phone": "(407) 944-4070",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 7:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 5:00 PM",
+      "Sun": "9:00 AM \u2013 3:00 PM"
+    },
+    "tags": [
+      "Wine & Spirits",
+      "Seafood"
+    ],
+    "lat": 28.1984,
+    "lng": -81.487
+  },
+  {
+    "name": "Largo, FL",
+    "address": "8750 Enterprise Blvd",
+    "cityState": "Largo, FL",
+    "zip": "33773",
+    "phone": "(727) 539-8300",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 7:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 5:00 PM",
+      "Sun": "9:00 AM \u2013 3:00 PM"
+    },
+    "tags": [
+      "Wine & Spirits",
+      "Seafood"
+    ],
+    "lat": 27.8802,
+    "lng": -82.7534
+  },
+  {
+    "name": "Medley, FL",
+    "address": "8850 NW 77th Ct",
+    "cityState": "Medley, FL",
+    "zip": "33166",
+    "phone": "(305) 884-1213",
+    "hours": {
+      "Mon": "6:00 AM \u2013 6:00 PM",
+      "Tue": "6:00 AM \u2013 6:00 PM",
+      "Wed": "6:00 AM \u2013 6:00 PM",
+      "Thu": "6:00 AM \u2013 7:00 PM",
+      "Fri": "6:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 5:00 PM",
+      "Sun": "9:00 AM \u2013 3:00 PM"
+    },
+    "tags": [
+      "Wine & Spirits",
+      "Seafood"
+    ],
+    "lat": 25.8301,
+    "lng": -80.2926
+  },
+  {
+    "name": "Miami, FL",
+    "address": "2041 NW 12th Ave",
+    "cityState": "Miami, FL",
+    "zip": "33127",
+    "phone": "(305) 324-4414",
+    "hours": {
+      "Mon": "5:45 AM \u2013 3:30 PM",
+      "Tue": "5:45 AM \u2013 3:30 PM",
+      "Wed": "5:45 AM \u2013 6:00 PM",
+      "Thu": "5:45 AM \u2013 3:30 PM",
+      "Fri": "5:45 AM \u2013 5:00 PM",
+      "Sat": "6:45 AM \u2013 3:00 PM",
+      "Sun": "9:00 AM \u2013 2:00 PM"
+    },
+    "tags": [
+      "Seafood"
+    ],
+    "lat": 25.8143,
+    "lng": -80.2051
+  },
+  {
+    "name": "Ocala, FL",
+    "address": "3100 SW College Rd",
+    "cityState": "Ocala, FL",
+    "zip": "34474",
+    "phone": "(352) 421-6226",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 6:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "8:00 AM \u2013 3:00 PM"
+    },
+    "tags": [
+      "Wine & Spirits",
+      "Seafood"
+    ],
+    "lat": 29.1565,
+    "lng": -82.2095
+  },
+  {
+    "name": "Orlando, FL",
+    "address": "3451 W Princeton Street",
+    "cityState": "Orlando, FL",
+    "zip": "32808",
+    "phone": "(407) 295-4300",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 7:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "8:00 AM \u2013 5:00 PM",
+      "Sun": "9:00 AM \u2013 2:00 PM"
+    },
+    "tags": [
+      "Restaurant Depot Express"
+    ],
+    "lat": 28.5803,
+    "lng": -81.4396
+  },
+  {
+    "name": "Pompano Beach, FL",
+    "address": "1470 W Copans Rd",
+    "cityState": "Pompano Beach, FL",
+    "zip": "33064",
+    "phone": "(954) 972-0212",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 7:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 5:00 PM",
+      "Sun": "9:00 AM \u2013 3:00 PM"
+    },
+    "tags": [
+      "Wine & Spirits",
+      "Seafood"
+    ],
+    "lat": 26.2785,
+    "lng": -80.1157
+  },
+  {
+    "name": "Riviera Beach, FL",
+    "address": "5840 Military Trail",
+    "cityState": "Riviera Beach, FL",
+    "zip": "33407",
+    "phone": "(561)242-6161",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 7:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 5:00 PM",
+      "Sun": "9:00 AM \u2013 3:00 PM"
+    },
+    "tags": [
+      "Seafood"
+    ],
+    "lat": 26.7492,
+    "lng": -80.0725
+  },
+  {
+    "name": "Sarasota, FL",
+    "address": "1361 W University Pkwy",
+    "cityState": "SARASOTA, FL",
+    "zip": "34243",
+    "phone": "(941) 355-8135",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 7:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 5:00 PM",
+      "Sun": "9:00 AM \u2013 3:00 PM"
+    },
+    "tags": [
+      "Seafood"
+    ],
+    "lat": 27.4072,
+    "lng": -82.5303
+  },
+  {
+    "name": "Tampa, FL",
+    "address": "810 North 50th Street",
+    "cityState": "Tampa, FL",
+    "zip": "33619",
+    "phone": "813-247-7900",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 7:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 5:00 PM",
+      "Sun": "9:00 AM \u2013 3:00 PM"
+    },
+    "tags": [
+      "Wine & Spirits",
+      "Seafood"
+    ],
+    "lat": 27.9382,
+    "lng": -82.3756
+  },
+  {
+    "name": "Buford, GA",
+    "address": "4220 S Lee St",
+    "cityState": "Buford, GA",
+    "zip": "30518",
+    "phone": "(678) 482-4650",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 7:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 5:00 PM",
+      "Sun": "9:00 AM \u2013 3:00 PM"
+    },
+    "tags": [
+      "Wine & Spirits",
+      "Seafood"
+    ],
+    "lat": 34.1124,
+    "lng": -83.9965
+  },
+  {
+    "name": "Ellsworth, GA",
+    "address": "1455 Ellsworth Industrial Blvd NW",
+    "cityState": "Atlanta, GA",
+    "zip": "30318",
+    "phone": "(404) 351-2501",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 7:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 5:00 PM",
+      "Sun": "9:00 AM \u2013 3:00 PM"
+    },
+    "tags": [
+      "Seafood"
+    ],
+    "lat": 33.7865,
+    "lng": -84.4454
+  },
+  {
+    "name": "Marietta, GA",
+    "address": "1803 Roswell Road",
+    "cityState": "Marietta, GA",
+    "zip": "30062",
+    "phone": "(770) 971-2800",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 7:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "9:00 AM \u2013 3:00 PM"
+    },
+    "tags": [],
+    "lat": 34.0025,
+    "lng": -84.4633
+  },
+  {
+    "name": "Morrow, GA",
+    "address": "1245 Commerce Rd",
+    "cityState": "Morrow, GA",
+    "zip": "30260",
+    "phone": "(678) 962-7089",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 7:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 5:00 PM",
+      "Sun": "9:00 AM \u2013 3:00 PM"
+    },
+    "tags": [
+      "Seafood"
+    ],
+    "lat": 33.5849,
+    "lng": -84.3247
+  },
+  {
+    "name": "Norcross, GA",
+    "address": "6655 Crescent Dr",
+    "cityState": "Norcross, GA",
+    "zip": "30071",
+    "phone": "(770) 416-6490",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 7:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 5:00 PM",
+      "Sun": "9:00 AM \u2013 3:00 PM"
+    },
+    "tags": [],
+    "lat": 33.9381,
+    "lng": -84.1972
+  },
+  {
+    "name": "Alsip, IL",
+    "address": "12665 S Pulaski Rd",
+    "cityState": "Alsip, IL",
+    "zip": "60803",
+    "phone": "(708) 824-9999",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 7:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "9:00 AM \u2013 3:00 PM"
+    },
+    "tags": [
+      "Seafood"
+    ],
+    "lat": 41.6721,
+    "lng": -87.7357
+  },
+  {
+    "name": "Des Plaines, IL",
+    "address": "2166 Mannheim Rd",
+    "cityState": "Des Plaines, IL",
+    "zip": "60018",
+    "phone": "(847) 827-5511",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 7:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "9:00 AM \u2013 3:00 PM"
+    },
+    "tags": [],
+    "lat": 42.0155,
+    "lng": -87.8687
+  },
+  {
+    "name": "Goose Island, IL",
+    "address": "1030 W Division St",
+    "cityState": "Chicago, IL",
+    "zip": "60642",
+    "phone": "(312) 255-0403",
+    "hours": {
+      "Mon": "6:00 AM \u2013 6:00 PM",
+      "Tue": "6:00 AM \u2013 6:00 PM",
+      "Wed": "6:00 AM \u2013 6:00 PM",
+      "Thu": "6:00 AM \u2013 7:00 PM",
+      "Fri": "6:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 5:00 PM",
+      "Sun": "8:00 AM \u2013 3:00 PM"
+    },
+    "tags": [
+      "Seafood"
+    ],
+    "lat": 41.9008,
+    "lng": -87.6528
+  },
+  {
+    "name": "Gurnee, IL",
+    "address": "1501 Tri-State Parkway",
+    "cityState": "Gurnee, IL",
+    "zip": "60031",
+    "phone": "(847) 672-1498",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 7:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "9:00 AM \u2013 3:00 PM"
+    },
+    "tags": [
+      "Wine & Spirits",
+      "Seafood"
+    ],
+    "lat": 42.3669,
+    "lng": -87.9452
+  },
+  {
+    "name": "Lombard, IL",
+    "address": "1000 N Rohlwing RD",
+    "cityState": "Lombard, IL",
+    "zip": "60148",
+    "phone": "(630) 543-3700",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 7:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "9:00 AM \u2013 3:00 PM"
+    },
+    "tags": [],
+    "lat": 41.8721,
+    "lng": -88.016
+  },
+  {
+    "name": "Pulaski, IL",
+    "address": "5836 N. Pulaski Rd",
+    "cityState": "Pulaski, IL",
+    "zip": "60646",
+    "phone": "(773) 539-5059",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 7:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "9:00 AM \u2013 3:00 PM"
+    },
+    "tags": [
+      "Wine & Spirits",
+      "Seafood"
+    ],
+    "lat": 41.993,
+    "lng": -87.7596
+  },
+  {
+    "name": "Griffith, IN",
+    "address": "627 E Ridge Rd",
+    "cityState": "Griffith, IN",
+    "zip": "46319",
+    "phone": "(219) 301-4006",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 7:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "9:00 AM \u2013 3:00 PM"
+    },
+    "tags": [
+      "Seafood"
+    ],
+    "lat": 41.5335,
+    "lng": -87.4228
+  },
+  {
+    "name": "Indianapolis, IN",
+    "address": "2120 Enterprise Park Drive",
+    "cityState": "Indianapolis, IN",
+    "zip": "46218",
+    "phone": "(317) 921-4900",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 7:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "9:00 AM \u2013 3:00 PM"
+    },
+    "tags": [],
+    "lat": 39.8082,
+    "lng": -86.1014
+  },
+  {
+    "name": "Louisville, KY",
+    "address": "620 Locust Lane",
+    "cityState": "Louisville, KY",
+    "zip": "40217",
+    "phone": "(502) 635-8736",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 7:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "9:00 AM \u2013 3:00 PM"
+    },
+    "tags": [],
+    "lat": 38.2174,
+    "lng": -85.7404
+  },
+  {
+    "name": "Baton Rouge, LA",
+    "address": "1683 O'Neal Ln",
+    "cityState": "BATON ROUGE, LA",
+    "zip": "70816",
+    "phone": "(225)273-7533",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 6:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "8:00 AM \u2013 4:00 PM"
+    },
+    "tags": [],
+    "lat": 30.4273,
+    "lng": -91.0356
+  },
+  {
+    "name": "New Orleans, LA",
+    "address": "1111 S Broad St",
+    "cityState": "New Orleans, LA",
+    "zip": "70125",
+    "phone": "(504) 822-8881",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 6:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "8:00 AM \u2013 4:00 PM"
+    },
+    "tags": [
+      "Seafood"
+    ],
+    "lat": 29.9512,
+    "lng": -90.1028
+  },
+  {
+    "name": "Andover, MA",
+    "address": "146 Dascomb Rd",
+    "cityState": "Andover, MA",
+    "zip": "01810",
+    "phone": "(978) 749-9030",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 7:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "9:00 AM \u2013 2:00 PM"
+    },
+    "tags": [
+      "Seafood"
+    ],
+    "lat": 42.6496,
+    "lng": -71.1565
+  },
+  {
+    "name": "Avon, MA",
+    "address": "30 Bodwell St",
+    "cityState": "Avon, MA",
+    "zip": "02322",
+    "phone": "(508)588-5114",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 7:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "9:00 AM \u2013 2:00 PM"
+    },
+    "tags": [
+      "Seafood"
+    ],
+    "lat": 42.1258,
+    "lng": -71.0437
+  },
+  {
+    "name": "Chicopee, MA",
+    "address": "123 1st Ave",
+    "cityState": "Chicopee, MA",
+    "zip": "01020",
+    "phone": "(413) 598-8001",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 7:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "9:00 AM \u2013 2:00 PM"
+    },
+    "tags": [
+      "Seafood"
+    ],
+    "lat": 42.1764,
+    "lng": -72.5761
+  },
+  {
+    "name": "Everett, MA",
+    "address": "82 Boston Street",
+    "cityState": "Everett, MA",
+    "zip": "02149",
+    "phone": "(617) 889-2244",
+    "hours": {
+      "Mon": "5:00 AM \u2013 5:00 PM",
+      "Tue": "5:00 AM \u2013 5:00 PM",
+      "Wed": "5:00 AM \u2013 5:00 PM",
+      "Thu": "5:00 AM \u2013 6:00 PM",
+      "Fri": "5:00 AM \u2013 5:00 PM",
+      "Sat": "6:00 AM \u2013 4:00 PM",
+      "Sun": "9:00 AM \u2013 2:00 PM"
+    },
+    "tags": [
+      "Seafood"
+    ],
+    "lat": 42.4112,
+    "lng": -71.0514
+  },
+  {
+    "name": "Milford, MA",
+    "address": "100 Deer St",
+    "cityState": "Milford, MA",
+    "zip": "01757",
+    "phone": "(508) 478-3700",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 7:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "9:00 AM \u2013 2:00 PM"
+    },
+    "tags": [
+      "Seafood"
+    ],
+    "lat": 42.1511,
+    "lng": -71.5274
+  },
+  {
+    "name": "Needham, MA",
+    "address": "114 1st Ave",
+    "cityState": "Needham, MA",
+    "zip": "02494",
+    "phone": "(781) 449-1010",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 7:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "9:00 AM \u2013 2:00 PM"
+    },
+    "tags": [],
+    "lat": 42.2945,
+    "lng": -71.2328
+  },
+  {
+    "name": "New Bedford, MA",
+    "address": "500 Kings Highway",
+    "cityState": "New Bedford, MA",
+    "zip": "02745",
+    "phone": "(508) 207-4773",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 7:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "9:00 AM \u2013 2:00 PM"
+    },
+    "tags": [
+      "Seafood"
+    ],
+    "lat": 41.6913,
+    "lng": -70.9355
+  },
+  {
+    "name": "Baltimore, MD",
+    "address": "3405 Annapolis Rd",
+    "cityState": "Baltimore, MD",
+    "zip": "21227",
+    "phone": "(410) 354-1500",
+    "hours": {
+      "Mon": "6:00 AM \u2013 6:00 PM",
+      "Tue": "6:00 AM \u2013 6:00 PM",
+      "Wed": "6:00 AM \u2013 6:00 PM",
+      "Thu": "6:00 AM \u2013 7:00 PM",
+      "Fri": "6:00 AM \u2013 6:00 PM",
+      "Sat": "7:30 AM \u2013 3:30 PM",
+      "Sun": "9:00 AM \u2013 2:00 PM"
+    },
+    "tags": [],
+    "lat": 39.2309,
+    "lng": -76.6969
+  },
+  {
+    "name": "Capitol Heights, MD",
+    "address": "1032 Hampton Park Blvd",
+    "cityState": "Capitol Heights, MD",
+    "zip": "20743",
+    "phone": "301-499-1770",
+    "hours": {
+      "Mon": "6:00 AM \u2013 6:00 PM",
+      "Tue": "6:00 AM \u2013 6:00 PM",
+      "Wed": "6:00 AM \u2013 6:00 PM",
+      "Thu": "6:00 AM \u2013 7:00 PM",
+      "Fri": "6:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "9:00 AM \u2013 2:00 PM"
+    },
+    "tags": [
+      "Seafood"
+    ],
+    "lat": 38.8897,
+    "lng": -76.8925
+  },
+  {
+    "name": "Frederick, MD",
+    "address": "6051 JEFFERSON STATION CT",
+    "cityState": "Frederick, MD",
+    "zip": "21703",
+    "phone": null,
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 7:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "8:00 AM \u2013 4:00 PM",
+      "Sun": "9:00 AM \u2013 2:00 PM"
+    },
+    "tags": [
+      "Seafood"
+    ],
+    "lat": 39.3647,
+    "lng": -77.4636
+  },
+  {
+    "name": "White Marsh, MD",
+    "address": "135 Merrit Way",
+    "cityState": "White Marsh, MD",
+    "zip": "21162",
+    "phone": "(443) 648-4841",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 7:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "8:00 AM \u2013 4:00 PM",
+      "Sun": "9:00 AM \u2013 2:00 PM"
+    },
+    "tags": [],
+    "lat": 39.3923,
+    "lng": -76.4132
+  },
+  {
+    "name": "Dearborn, MI",
+    "address": "12970 Prospect St",
+    "cityState": "Dearborn, MI",
+    "zip": "48126",
+    "phone": "(313) 582-1420",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 7:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "9:00 AM \u2013 3:00 PM"
+    },
+    "tags": [],
+    "lat": 42.3349,
+    "lng": -83.1801
+  },
+  {
+    "name": "Troy, MI",
+    "address": "1304 E Maple Rd",
+    "cityState": "Troy, MI",
+    "zip": "48083",
+    "phone": "(248) 588-0755",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 7:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "9:00 AM \u2013 3:00 PM"
+    },
+    "tags": [
+      "Seafood"
+    ],
+    "lat": 42.5597,
+    "lng": -83.1138
+  },
+  {
+    "name": "Ypsilanti, MI",
+    "address": "1347 James L Hart Parkway",
+    "cityState": "Ypsilanti, MI",
+    "zip": "48197",
+    "phone": "(734) 273-9061",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 7:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "9:00 AM \u2013 3:00 PM"
+    },
+    "tags": [],
+    "lat": 42.2325,
+    "lng": -83.6336
+  },
+  {
+    "name": "Brooklyn Center, MN",
+    "address": "5925 Earle Brown Drive",
+    "cityState": "Brooklyn Center, MN",
+    "zip": "55430",
+    "phone": "(763) 561-0303",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 7:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "9:00 AM \u2013 3:00 PM"
+    },
+    "tags": [],
+    "lat": 45.0639,
+    "lng": -93.3022
+  },
+  {
+    "name": "St. Paul, MN",
+    "address": "1830 Como Ave",
+    "cityState": "St. Paul, MN",
+    "zip": "55108",
+    "phone": "(651) 917-0057",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 7:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "9:00 AM \u2013 3:00 PM"
+    },
+    "tags": [],
+    "lat": 44.9806,
+    "lng": -93.1771
+  },
+  {
+    "name": "Kansas City, MO",
+    "address": "1500 12th Street",
+    "cityState": "Kansas City, MO",
+    "zip": "64101",
+    "phone": "(816) 472-5333",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 7:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "9:00 AM \u2013 3:00 PM"
+    },
+    "tags": [],
+    "lat": 39.1024,
+    "lng": -94.5986
+  },
+  {
+    "name": "St. Louis, MO",
+    "address": "6455 Manchester Ave",
+    "cityState": "St. Louis, MO",
+    "zip": "63139",
+    "phone": "(314) 644-4500",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 7:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "9:00 AM \u2013 3:00 PM"
+    },
+    "tags": [
+      "Seafood"
+    ],
+    "lat": 38.6108,
+    "lng": -90.292
+  },
+  {
+    "name": "Cary, NC",
+    "address": "3901 Gateway Centre Boulevard",
+    "cityState": "Morrisville, NC",
+    "zip": "27560",
+    "phone": "(919)466-0660",
+    "hours": {
+      "Mon": "6:00 AM \u2013 6:00 PM",
+      "Tue": "6:00 AM \u2013 6:00 PM",
+      "Wed": "6:00 AM \u2013 6:00 PM",
+      "Thu": "6:00 AM \u2013 7:00 PM",
+      "Fri": "6:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "9:00 AM \u2013 3:00 PM"
+    },
+    "tags": [
+      "Seafood"
+    ],
+    "lat": 35.8344,
+    "lng": -78.8466
+  },
+  {
+    "name": "Charlotte, NC",
+    "address": "2030 John Crosland Jr Dr",
+    "cityState": "Charlotte, NC",
+    "zip": "28208",
+    "phone": "(704) 394-0082",
+    "hours": {
+      "Mon": "6:00 AM \u2013 6:00 PM",
+      "Tue": "6:00 AM \u2013 6:00 PM",
+      "Wed": "6:00 AM \u2013 6:00 PM",
+      "Thu": "6:00 AM \u2013 7:00 PM",
+      "Fri": "6:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "9:00 AM \u2013 3:00 PM"
+    },
+    "tags": [
+      "Seafood"
+    ],
+    "lat": 35.2358,
+    "lng": -80.8964
+  },
+  {
+    "name": "Greensboro, NC",
+    "address": "10 Sharps Airpark Ct",
+    "cityState": "Greensboro, NC",
+    "zip": "27409",
+    "phone": "(336) 665-7000",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 7:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "9:00 AM \u2013 3:00 PM"
+    },
+    "tags": [
+      "Seafood"
+    ],
+    "lat": 36.0777,
+    "lng": -79.9086
+  },
+  {
+    "name": "Omaha, NE",
+    "address": "6920 South 118th Street",
+    "cityState": "La Vista, NE",
+    "zip": "68128",
+    "phone": "(402) 339-2535",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 7:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "9:00 AM \u2013 3:00 PM"
+    },
+    "tags": [],
+    "lat": 41.1814,
+    "lng": -96.0658
+  },
+  {
+    "name": "Egg Harbor, NJ",
+    "address": "6725 E Black Horse Pike",
+    "cityState": "Egg Harbor, NJ",
+    "zip": "08234",
+    "phone": "(609) 415-6403",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 7:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "8:00 AM \u2013 4:00 PM",
+      "Sun": "9:00 AM \u2013 2:00 PM"
+    },
+    "tags": [],
+    "lat": 39.387,
+    "lng": -74.624
+  },
+  {
+    "name": "Jersey City, NJ",
+    "address": "1 Amity St",
+    "cityState": "Jersey City, NJ",
+    "zip": "07304",
+    "phone": "(201) 434-4334",
+    "hours": {
+      "Mon": "7:00 AM \u2013 5:00 PM",
+      "Tue": "7:00 AM \u2013 5:00 PM",
+      "Wed": "7:00 AM \u2013 5:00 PM",
+      "Thu": "7:00 AM \u2013 6:00 PM",
+      "Fri": "7:00 AM \u2013 5:00 PM",
+      "Sat": "7:00 AM \u2013 3:00 PM",
+      "Sun": "8:00 AM \u2013 1:00 PM"
+    },
+    "tags": [],
+    "lat": 40.718,
+    "lng": -74.0754
+  },
+  {
+    "name": "Neptune, NJ",
+    "address": "3562 Route 66",
+    "cityState": "Neptune, NJ",
+    "zip": "07753",
+    "phone": "(732) 643-9393",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 7:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "8:00 AM \u2013 4:00 PM",
+      "Sun": "9:00 AM \u2013 2:00 PM"
+    },
+    "tags": [],
+    "lat": 40.2096,
+    "lng": -74.0714
+  },
+  {
+    "name": "Pennsauken, NJ",
+    "address": "1070 Thomas Busch Memorial Hwy",
+    "cityState": "Pennsauken, NJ",
+    "zip": "08110",
+    "phone": "(856) 488-4288",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 7:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "9:00 AM \u2013 2:00 PM"
+    },
+    "tags": [
+      "Seafood"
+    ],
+    "lat": 39.9723,
+    "lng": -75.0607
+  },
+  {
+    "name": "Pine Brook, NJ",
+    "address": "21 US Highway 46",
+    "cityState": "Pine Brook, NJ",
+    "zip": "07058",
+    "phone": "(973) 882-6900",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 7:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "8:00 AM \u2013 4:00 PM",
+      "Sun": "9:00 AM \u2013 2:00 PM"
+    },
+    "tags": [
+      "Seafood"
+    ],
+    "lat": 40.8742,
+    "lng": -74.35
+  },
+  {
+    "name": "Secaucus, NJ",
+    "address": "777 Secaucus Rd",
+    "cityState": "Secaucus, NJ",
+    "zip": "07094",
+    "phone": "(201) 601-4755",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 7:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "8:00 AM \u2013 4:00 PM",
+      "Sun": "9:00 AM \u2013 2:00 PM"
+    },
+    "tags": [
+      "Seafood"
+    ],
+    "lat": 40.791,
+    "lng": -74.0634
+  },
+  {
+    "name": "South Hackensack, NJ",
+    "address": "45 E. Wesley Street",
+    "cityState": "South Hackensack, NJ",
+    "zip": "07606",
+    "phone": "(201) 996-1991",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 7:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "8:00 AM \u2013 4:00 PM",
+      "Sun": "9:00 AM \u2013 2:00 PM"
+    },
+    "tags": [
+      "Seafood"
+    ],
+    "lat": 40.8634,
+    "lng": -74.0456
+  },
+  {
+    "name": "South Plainfield, NJ",
+    "address": "1760 New Durham Road",
+    "cityState": "South Plainfield, NJ",
+    "zip": "07080",
+    "phone": "(732) 819-3920",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 7:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "8:00 AM \u2013 4:00 PM",
+      "Sun": "9:00 AM \u2013 2:00 PM"
+    },
+    "tags": [
+      "Seafood"
+    ],
+    "lat": 40.5839,
+    "lng": -74.4147
+  },
+  {
+    "name": "Union, NJ",
+    "address": "1135 Springfield Blvd",
+    "cityState": "Union, NJ",
+    "zip": "07083",
+    "phone": "(908) 964-5544",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 7:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "8:00 AM \u2013 4:00 PM",
+      "Sun": "9:00 AM \u2013 2:00 PM"
+    },
+    "tags": [
+      "Seafood"
+    ],
+    "lat": 40.6952,
+    "lng": -74.2677
+  },
+  {
+    "name": "Albuquerque, NM",
+    "address": "1901 Menual Blvd NE",
+    "cityState": "Albuquerque, NM",
+    "zip": "87107",
+    "phone": "(505) 600-4611",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 6:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "8:00 AM \u2013 3:00 PM"
+    },
+    "tags": [
+      "Seafood"
+    ],
+    "lat": 35.1347,
+    "lng": -106.6427
+  },
+  {
+    "name": "Las Vegas, NV",
+    "address": "1477 Helm Dr",
+    "cityState": "Las Vegas, NV",
+    "zip": "89119",
+    "phone": "(702) 260-4100",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 6:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "8:00 AM \u2013 3:00 PM"
+    },
+    "tags": [],
+    "lat": 36.1008,
+    "lng": -115.1365
+  },
+  {
+    "name": "Albany, NY",
+    "address": "22 Warehouse Road",
+    "cityState": "Colonie, NY",
+    "zip": "12205",
+    "phone": "(518) 458-1630",
+    "hours": {
+      "Mon": "6:00 AM \u2013 6:00 PM",
+      "Tue": "6:00 AM \u2013 6:00 PM",
+      "Wed": "6:00 AM \u2013 6:00 PM",
+      "Thu": "6:00 AM \u2013 7:00 PM",
+      "Fri": "6:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "9:00 AM \u2013 2:00 PM"
+    },
+    "tags": [
+      "Wine & Spirits",
+      "Seafood"
+    ],
+    "lat": 42.7198,
+    "lng": -73.8207
+  },
+  {
+    "name": "Blauvelt, NY",
+    "address": "100 Corporate Drive Suite 101",
+    "cityState": "Blauvelt, NY",
+    "zip": "10913",
+    "phone": "(845) 358-0410",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 7:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "8:00 AM \u2013 4:00 PM",
+      "Sun": "9:00 AM \u2013 2:00 PM"
+    },
+    "tags": [
+      "Seafood"
+    ],
+    "lat": 41.0626,
+    "lng": -73.9629
+  },
+  {
+    "name": "Bohemia, NY",
+    "address": "1335 Lakeland Ave",
+    "cityState": "Bohemia, NY",
+    "zip": "11716",
+    "phone": "(631) 218-1818",
+    "hours": {
+      "Mon": "6:00 AM \u2013 6:00 PM",
+      "Tue": "6:00 AM \u2013 6:00 PM",
+      "Wed": "6:00 AM \u2013 6:00 PM",
+      "Thu": "6:00 AM \u2013 7:00 PM",
+      "Fri": "6:00 AM \u2013 6:00 PM",
+      "Sat": "7:30 AM \u2013 4:00 PM",
+      "Sun": "9:00 AM \u2013 2:00 PM"
+    },
+    "tags": [
+      "Seafood"
+    ],
+    "lat": 40.7678,
+    "lng": -73.1163
+  },
+  {
+    "name": "Brewster, NY",
+    "address": "3874 Danbury Rd",
+    "cityState": "Brewster, NY",
+    "zip": "10509",
+    "phone": "(845) 230-6007",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 7:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "9:00 AM \u2013 2:00 PM"
+    },
+    "tags": [
+      "Wine & Spirits",
+      "Seafood"
+    ],
+    "lat": 41.4097,
+    "lng": -73.5992
+  },
+  {
+    "name": "Buffalo, NY",
+    "address": "500 Duke Rd",
+    "cityState": "Buffalo, NY",
+    "zip": "14225",
+    "phone": "(716) 706-0466",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 7:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "9:00 AM \u2013 2:00 PM"
+    },
+    "tags": [],
+    "lat": 42.9255,
+    "lng": -78.7481
+  },
+  {
+    "name": "Canarsie, NY",
+    "address": "10110 Foster Ave",
+    "cityState": "Brooklyn, NY",
+    "zip": "11236",
+    "phone": "(718) 649-8000",
+    "hours": {
+      "Mon": "6:30 AM \u2013 4:00 PM",
+      "Tue": "6:30 AM \u2013 4:00 PM",
+      "Wed": "6:30 AM \u2013 6:00 PM",
+      "Thu": "6:30 AM \u2013 5:00 PM",
+      "Fri": "6:30 AM \u2013 4:00 PM",
+      "Sat": "7:00 AM \u2013 3:00 PM",
+      "Sun": "9:00 AM \u2013 2:00 PM"
+    },
+    "tags": [
+      "Seafood"
+    ],
+    "lat": 40.6407,
+    "lng": -73.9028
+  },
+  {
+    "name": "College Point, NY",
+    "address": "1506 132nd St",
+    "cityState": "College Point, NY",
+    "zip": "11356",
+    "phone": "(718) 762-1000",
+    "hours": {
+      "Mon": "6:30 AM \u2013 6:00 PM",
+      "Tue": "6:30 AM \u2013 6:00 PM",
+      "Wed": "6:30 AM \u2013 6:00 PM",
+      "Thu": "6:30 AM \u2013 7:00 PM",
+      "Fri": "6:30 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 3:00 PM",
+      "Sun": "9:00 AM \u2013 2:00 PM"
+    },
+    "tags": [],
+    "lat": 40.7855,
+    "lng": -73.845
+  },
+  {
+    "name": "Farmingdale, NY",
+    "address": "1966 Broadhollow Rd Suite F",
+    "cityState": "Farmingdale, NY",
+    "zip": "11735",
+    "phone": "(631) 752-3900",
+    "hours": {
+      "Mon": "6:00 AM \u2013 6:00 PM",
+      "Tue": "6:00 AM \u2013 6:00 PM",
+      "Wed": "6:00 AM \u2013 6:00 PM",
+      "Thu": "6:00 AM \u2013 7:00 PM",
+      "Fri": "6:00 AM \u2013 6:00 PM",
+      "Sat": "7:30 AM \u2013 4:00 PM",
+      "Sun": "9:00 AM \u2013 2:00 PM"
+    },
+    "tags": [],
+    "lat": 40.7315,
+    "lng": -73.4327
+  },
+  {
+    "name": "Garden City, NY",
+    "address": "720 Stewart Ave",
+    "cityState": "Garden City, NY",
+    "zip": "11530",
+    "phone": "(516) 794-9200",
+    "hours": {
+      "Mon": "6:00 AM \u2013 6:00 PM",
+      "Tue": "6:00 AM \u2013 6:00 PM",
+      "Wed": "6:00 AM \u2013 6:00 PM",
+      "Thu": "6:00 AM \u2013 7:00 PM",
+      "Fri": "6:00 AM \u2013 6:00 PM",
+      "Sat": "7:30 AM \u2013 4:00 PM",
+      "Sun": "9:00 AM \u2013 2:00 PM"
+    },
+    "tags": [
+      "Wine & Spirits",
+      "Seafood"
+    ],
+    "lat": 40.7245,
+    "lng": -73.6487
+  },
+  {
+    "name": "Hamilton Ave Brooklyn, NY",
+    "address": "566 Hamilton Ave",
+    "cityState": "Brooklyn, NY",
+    "zip": "11232",
+    "phone": "(718) 768-0555",
+    "hours": {
+      "Mon": "6:30 AM \u2013 6:00 PM",
+      "Tue": "6:30 AM \u2013 6:00 PM",
+      "Wed": "6:30 AM \u2013 6:00 PM",
+      "Thu": "6:30 AM \u2013 7:00 PM",
+      "Fri": "6:30 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 3:00 PM",
+      "Sun": "9:00 AM \u2013 2:00 PM"
+    },
+    "tags": [
+      "Seafood"
+    ],
+    "lat": 40.6521,
+    "lng": -74.0018
+  },
+  {
+    "name": "Maspeth, NY",
+    "address": "4340 57th Ave",
+    "cityState": "Maspeth, NY",
+    "zip": "11378",
+    "phone": "(718) 707-9330",
+    "hours": {
+      "Mon": "6:00 AM \u2013 6:00 PM",
+      "Tue": "6:00 AM \u2013 6:00 PM",
+      "Wed": "6:00 AM \u2013 6:00 PM",
+      "Thu": "6:00 AM \u2013 7:00 PM",
+      "Fri": "6:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "9:00 AM \u2013 2:00 PM"
+    },
+    "tags": [
+      "Seafood"
+    ],
+    "lat": 40.7239,
+    "lng": -73.8997
+  },
+  {
+    "name": "Mt. Vernon, NY",
+    "address": "650 S Columbus Ave",
+    "cityState": "Mount Vernon, NY",
+    "zip": "10550",
+    "phone": "(914)-665-6868",
+    "hours": {
+      "Mon": "6:00 AM \u2013 6:00 PM",
+      "Tue": "6:00 AM \u2013 6:00 PM",
+      "Wed": "6:00 AM \u2013 6:00 PM",
+      "Thu": "6:00 AM \u2013 7:00 PM",
+      "Fri": "6:00 AM \u2013 6:00 PM",
+      "Sat": "6:00 AM \u2013 4:00 PM",
+      "Sun": "9:00 AM \u2013 2:00 PM"
+    },
+    "tags": [
+      "Wine & Spirits",
+      "Seafood"
+    ],
+    "lat": 40.9079,
+    "lng": -73.838
+  },
+  {
+    "name": "Newburgh, NY",
+    "address": "1281 Route 300",
+    "cityState": "NEWBURGH, NY",
+    "zip": "12550",
+    "phone": "(845) 567-1070",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 7:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "9:00 AM \u2013 2:00 PM"
+    },
+    "tags": [
+      "Wine & Spirits",
+      "Seafood"
+    ],
+    "lat": 41.5372,
+    "lng": -74.0526
+  },
+  {
+    "name": "Port Chester, NY",
+    "address": "305 South Regent Street",
+    "cityState": "Port Chester, NY",
+    "zip": "10573",
+    "phone": "(914) 935-0220",
+    "hours": {
+      "Mon": "6:00 AM \u2013 6:00 PM",
+      "Tue": "6:00 AM \u2013 6:00 PM",
+      "Wed": "6:00 AM \u2013 6:00 PM",
+      "Thu": "6:00 AM \u2013 7:00 PM",
+      "Fri": "6:00 AM \u2013 6:00 PM",
+      "Sat": "6:00 AM \u2013 4:00 PM",
+      "Sun": "9:00 AM \u2013 2:00 PM"
+    },
+    "tags": [],
+    "lat": 41.0222,
+    "lng": -73.6798
+  },
+  {
+    "name": "Riverhead, NY",
+    "address": "765 Old Country Rd",
+    "cityState": "Riverhead, NY",
+    "zip": "11901",
+    "phone": "(631) 655-0081",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 7:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "8:00 AM \u2013 4:00 PM",
+      "Sun": "9:00 AM \u2013 2:00 PM"
+    },
+    "tags": [
+      "Wine & Spirits",
+      "Seafood"
+    ],
+    "lat": 40.9262,
+    "lng": -72.652
+  },
+  {
+    "name": "Rochester, NY",
+    "address": "80 Ridgeland Rd",
+    "cityState": "Henrietta, NY",
+    "zip": "14623",
+    "phone": "(585)292-0062",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 7:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "9:00 AM \u2013 3:00 PM"
+    },
+    "tags": [
+      "Seafood"
+    ],
+    "lat": 43.0834,
+    "lng": -77.6344
+  },
+  {
+    "name": "Staten Island, NY",
+    "address": "1801 South Avenue",
+    "cityState": "Staten Island, NY",
+    "zip": "10314",
+    "phone": "(718) 568-2649",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 7:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "8:00 AM \u2013 4:00 PM",
+      "Sun": "9:00 AM \u2013 2:00 PM"
+    },
+    "tags": [],
+    "lat": 40.6039,
+    "lng": -74.1472
+  },
+  {
+    "name": "Syracuse, NY",
+    "address": "1308 Buckley Rd",
+    "cityState": "Syracuse, NY",
+    "zip": "13212",
+    "phone": "(315) 233-4236",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 7:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "9:00 AM \u2013 2:00 PM"
+    },
+    "tags": [
+      "Seafood"
+    ],
+    "lat": 43.1226,
+    "lng": -76.1284
+  },
+  {
+    "name": "The Bronx, NY",
+    "address": "100 Oakpoint Ave",
+    "cityState": "Bronx, NY",
+    "zip": "10474",
+    "phone": "(718) 665-3910",
+    "hours": {
+      "Mon": "2:00 AM \u2013 6:00 PM",
+      "Tue": "2:00 AM \u2013 6:00 PM",
+      "Wed": "2:00 AM \u2013 6:00 PM",
+      "Thu": "2:00 AM \u2013 6:00 PM",
+      "Fri": "2:00 AM \u2013 6:00 PM",
+      "Sat": "6:00 AM \u2013 4:00 PM",
+      "Sun": "8:00 AM \u2013 2:00 PM"
+    },
+    "tags": [],
+    "lat": 40.8139,
+    "lng": -73.8841
+  },
+  {
+    "name": "Akron, OH",
+    "address": "1062 Sweitzer Ave",
+    "cityState": "Akron, OH",
+    "zip": "44301",
+    "phone": "(330) 258-2220",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 7:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "9:00 AM \u2013 3:00 PM"
+    },
+    "tags": [
+      "Wine & Spirits",
+      "Seafood"
+    ],
+    "lat": 41.0449,
+    "lng": -81.52
+  },
+  {
+    "name": "Cincinnati, OH",
+    "address": "4501 W Mitchell Ave",
+    "cityState": "Cincinnati, OH",
+    "zip": "45232",
+    "phone": "(513) 542-3000",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 7:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "9:00 AM \u2013 3:00 PM"
+    },
+    "tags": [],
+    "lat": 39.1859,
+    "lng": -84.5141
+  },
+  {
+    "name": "Cleveland, OH",
+    "address": "6150 Halle Drive",
+    "cityState": "Valley View, OH",
+    "zip": "44125",
+    "phone": "(216) 525-0101",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 7:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "9:00 AM \u2013 3:00 PM"
+    },
+    "tags": [],
+    "lat": 41.4335,
+    "lng": -81.6323
+  },
+  {
+    "name": "Columbus, OH",
+    "address": "270 N Wilson Rd",
+    "cityState": "Columbus, OH",
+    "zip": "43204",
+    "phone": "(614) 272-6670",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 7:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "9:00 AM \u2013 3:00 PM"
+    },
+    "tags": [
+      "Seafood"
+    ],
+    "lat": 39.9523,
+    "lng": -83.078
+  },
+  {
+    "name": "Dayton, OH",
+    "address": "3700 Keats Dr",
+    "cityState": "Dayton, OH",
+    "zip": "45414",
+    "phone": "(937) 558-7496",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 7:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "9:00 AM \u2013 3:00 PM"
+    },
+    "tags": [],
+    "lat": 39.8285,
+    "lng": -84.2024
+  },
+  {
+    "name": "Oklahoma City, OK",
+    "address": "300 NE 36th Street",
+    "cityState": "Oklahoma, OK",
+    "zip": "73105",
+    "phone": "(405) 521-9100",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 6:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "8:00 AM \u2013 4:00 PM"
+    },
+    "tags": [],
+    "lat": 35.5108,
+    "lng": -97.5003
+  },
+  {
+    "name": "Tulsa, OK",
+    "address": "4538 S Sheridan Rd",
+    "cityState": "Tulsa, OK",
+    "zip": "74145",
+    "phone": "(918) 984-6516",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 6:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "8:00 AM \u2013 4:00 PM"
+    },
+    "tags": [],
+    "lat": 36.0934,
+    "lng": -95.8856
+  },
+  {
+    "name": "Clackamas, OR",
+    "address": "12628 Jennifer st",
+    "cityState": "Clackamas, OR",
+    "zip": "97015",
+    "phone": "(503) 344-4525",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 6:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 5:00 PM",
+      "Sun": "8:00 AM \u2013 4:00 PM"
+    },
+    "tags": [],
+    "lat": 45.415,
+    "lng": -122.52
+  },
+  {
+    "name": "Portland, OR",
+    "address": "945 N Hayden Meadows Drive",
+    "cityState": "Portland, OR",
+    "zip": "97217",
+    "phone": "(503) 283-1200",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 6:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 5:00 PM",
+      "Sun": "8:00 AM \u2013 4:00 PM"
+    },
+    "tags": [],
+    "lat": 45.5742,
+    "lng": -122.6842
+  },
+  {
+    "name": "Bethlehem, PA",
+    "address": "2002 Industrial Dr",
+    "cityState": "Bethlehem, PA",
+    "zip": "18017",
+    "phone": "(610) 865-1111",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 7:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "9:00 AM \u2013 2:00 PM"
+    },
+    "tags": [
+      "Wine & Spirits",
+      "Seafood"
+    ],
+    "lat": 40.6622,
+    "lng": -75.3903
+  },
+  {
+    "name": "Harrisburg, PA",
+    "address": "4250 Chambers Hill Rd",
+    "cityState": "Harrisburg, PA",
+    "zip": "17111",
+    "phone": "(717) 564 3090",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 7:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "9:00 AM \u2013 2:00 PM"
+    },
+    "tags": [
+      "Seafood"
+    ],
+    "lat": 40.2721,
+    "lng": -76.8017
+  },
+  {
+    "name": "Langhorne, PA",
+    "address": "1661 East Lincoln HWY",
+    "cityState": "Langhorne, PA",
+    "zip": "19047",
+    "phone": "(215) 949-6690",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 7:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "9:00 AM \u2013 2:00 PM"
+    },
+    "tags": [],
+    "lat": 40.1813,
+    "lng": -74.9104
+  },
+  {
+    "name": "Philadelphia, PA",
+    "address": "700 Pattison Ave",
+    "cityState": "Philadelphia, PA",
+    "zip": "19148",
+    "phone": "(215) 334-2100",
+    "hours": {
+      "Mon": "6:30 AM \u2013 5:00 PM",
+      "Tue": "6:30 AM \u2013 5:00 PM",
+      "Wed": "6:30 AM \u2013 7:00 PM",
+      "Thu": "6:30 AM \u2013 7:00 PM",
+      "Fri": "6:30 AM \u2013 5:00 PM",
+      "Sat": "7:00 AM \u2013 3:00 PM",
+      "Sun": "7:00 AM \u2013 12:00 PM"
+    },
+    "tags": [
+      "Seafood"
+    ],
+    "lat": 39.9207,
+    "lng": -75.1595
+  },
+  {
+    "name": "Pittsburgh, PA",
+    "address": "86 35th St",
+    "cityState": "Pittsburgh, PA",
+    "zip": "15201",
+    "phone": "(412) 281-1414",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 7:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "9:00 AM \u2013 3:00 PM"
+    },
+    "tags": [
+      "Seafood"
+    ],
+    "lat": 40.4752,
+    "lng": -79.9528
+  },
+  {
+    "name": "Reading, PA",
+    "address": "3045 N 5th Street Hwy",
+    "cityState": "Reading, PA",
+    "zip": "19605",
+    "phone": "(484) 878-6088",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 7:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "9:00 AM \u2013 2:00 PM"
+    },
+    "tags": [
+      "Seafood"
+    ],
+    "lat": 40.3886,
+    "lng": -75.9328
+  },
+  {
+    "name": "Roberts Ave Manayunk, PA",
+    "address": "2950 Roberts Avenue",
+    "cityState": "Manayunk, PA",
+    "zip": "19129",
+    "phone": "(631) 752-3900",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 7:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "8:00 AM \u2013 2:00 PM"
+    },
+    "tags": [],
+    "lat": 40.0118,
+    "lng": -75.1861
+  },
+  {
+    "name": "Royersford, PA",
+    "address": "82 BUCKWALTER RD # 200",
+    "cityState": "Royersford, PA",
+    "zip": "19468",
+    "phone": "(484) 762-1006",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 7:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "9:00 AM \u2013 2:00 PM"
+    },
+    "tags": [
+      "Seafood"
+    ],
+    "lat": 40.2075,
+    "lng": -75.5329
+  },
+  {
+    "name": "Wilkes-Barre, PA",
+    "address": "823 650 Scott St",
+    "cityState": "Wilkes-Barre, PA",
+    "zip": "18702",
+    "phone": "(570) 208-0645",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 7:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "9:00 AM \u2013 2:00 PM"
+    },
+    "tags": [],
+    "lat": 41.2208,
+    "lng": -75.7736
+  },
+  {
+    "name": "Cranston, RI",
+    "address": "140 Kenwood St",
+    "cityState": "Cranston, RI",
+    "zip": "02907",
+    "phone": "(401) 275-5000",
+    "hours": {
+      "Mon": "6:00 AM \u2013 6:00 PM",
+      "Tue": "6:00 AM \u2013 6:00 PM",
+      "Wed": "6:00 AM \u2013 6:00 PM",
+      "Thu": "6:00 AM \u2013 7:00 PM",
+      "Fri": "6:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "9:00 AM \u2013 2:00 PM"
+    },
+    "tags": [],
+    "lat": 41.7971,
+    "lng": -71.4255
+  },
+  {
+    "name": "Charleston, SC",
+    "address": "3600 Meeting Street Road",
+    "cityState": "North Charleston, SC",
+    "zip": "29405",
+    "phone": "(843) 529-0699",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 7:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "9:00 AM \u2013 3:00 PM"
+    },
+    "tags": [
+      "Seafood"
+    ],
+    "lat": 32.853,
+    "lng": -79.9913
+  },
+  {
+    "name": "Mauldin, SC",
+    "address": "1060 East Butler Rd",
+    "cityState": "Greenville, SC",
+    "zip": "29607",
+    "phone": "(864) 458-3033",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 7:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "9:00 AM \u2013 3:00 PM"
+    },
+    "tags": [],
+    "lat": 34.8285,
+    "lng": -82.3516
+  },
+  {
+    "name": "Memphis, TN",
+    "address": "5301 Summer Ave",
+    "cityState": "Memphis, TN",
+    "zip": "38122",
+    "phone": "(901)-761-1660",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 7:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "9:00 AM \u2013 3:00 PM"
+    },
+    "tags": [],
+    "lat": 35.1572,
+    "lng": -89.9268
+  },
+  {
+    "name": "Nashville, TN",
+    "address": "111 Oldham Street",
+    "cityState": "Nashville, TN",
+    "zip": "37213",
+    "phone": "(615) 252-2233",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 7:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "9:00 AM \u2013 3:00 PM"
+    },
+    "tags": [],
+    "lat": 36.1663,
+    "lng": -86.7669
+  },
+  {
+    "name": "Austin South, TX",
+    "address": "8201 S Congress Ave",
+    "cityState": "Austin, TX",
+    "zip": "78745",
+    "phone": "(512) 691-6555",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 6:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "8:00 AM \u2013 4:00 PM"
+    },
+    "tags": [],
+    "lat": 30.2063,
+    "lng": -97.7956
+  },
+  {
+    "name": "Austin, TX",
+    "address": "820 Blackson Ave",
+    "cityState": "Austin, TX",
+    "zip": "78752",
+    "phone": "(512) 454-5600",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 6:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "8:00 AM \u2013 4:00 PM"
+    },
+    "tags": [],
+    "lat": 30.3316,
+    "lng": -97.7004
+  },
+  {
+    "name": "Dallas, TX",
+    "address": "2151 Irving Blvd",
+    "cityState": "Dallas, TX",
+    "zip": "75207",
+    "phone": "(214) 760-4840",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 6:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "8:00 AM \u2013 4:00 PM"
+    },
+    "tags": [
+      "Seafood"
+    ],
+    "lat": 32.7939,
+    "lng": -96.8319
+  },
+  {
+    "name": "El Paso, TX",
+    "address": "1430 N Lee Trevino",
+    "cityState": "El Paso, TX",
+    "zip": "79936",
+    "phone": "(915) 313-5400",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 6:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "8:00 AM \u2013 4:00 PM"
+    },
+    "tags": [
+      "Seafood"
+    ],
+    "lat": 31.7677,
+    "lng": -106.3016
+  },
+  {
+    "name": "Fort Worth, TX",
+    "address": "1171 Bridgewood Dr",
+    "cityState": "Fort Worth, TX",
+    "zip": "76112",
+    "phone": "(817) 446-0203",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 6:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "8:00 AM \u2013 4:00 PM"
+    },
+    "tags": [],
+    "lat": 32.7493,
+    "lng": -97.2181
+  },
+  {
+    "name": "Houston (SW), TX",
+    "address": "11290 Bissonnet St",
+    "cityState": "Houston, TX",
+    "zip": "77099",
+    "phone": "(281) 568-8400",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 6:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "8:00 AM \u2013 4:00 PM"
+    },
+    "tags": [
+      "Seafood"
+    ],
+    "lat": 29.6709,
+    "lng": -95.5866
+  },
+  {
+    "name": "Houston, TX",
+    "address": "1431 W 20th St",
+    "cityState": "Houston, TX",
+    "zip": "77008",
+    "phone": "(713) 864-7500",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 6:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "8:00 AM \u2013 4:00 PM"
+    },
+    "tags": [
+      "Seafood"
+    ],
+    "lat": 29.7991,
+    "lng": -95.4118
+  },
+  {
+    "name": "Lewisville, TX",
+    "address": "601 W FM 3040",
+    "cityState": "Lewisville, TX",
+    "zip": "75067",
+    "phone": "(972) 930-1423",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 6:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "8:00 AM \u2013 4:00 PM"
+    },
+    "tags": [
+      "Seafood"
+    ],
+    "lat": 33.0198,
+    "lng": -96.9925
+  },
+  {
+    "name": "McAllen, TX",
+    "address": "3300 W Expressway 83 Suite 500",
+    "cityState": "McAllen, TX",
+    "zip": "78501",
+    "phone": "(956) 731-3954",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 6:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "8:00 AM \u2013 4:00 PM"
+    },
+    "tags": [],
+    "lat": 26.2154,
+    "lng": -98.2359
+  },
+  {
+    "name": "Pasadena_TX, TX",
+    "address": "2545 Genoa Red Bluff Rd",
+    "cityState": "PASADENA, TX",
+    "zip": "77505",
+    "phone": "(346) 415-4677",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 6:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "8:00 AM \u2013 4:00 PM"
+    },
+    "tags": [],
+    "lat": 29.6518,
+    "lng": -95.1464
+  },
+  {
+    "name": "Richardson, TX",
+    "address": "1300 N Glenville Dr",
+    "cityState": "Richardson, TX",
+    "zip": "75081",
+    "phone": "(972) 235-0195",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 6:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "8:00 AM \u2013 4:00 PM"
+    },
+    "tags": [],
+    "lat": 32.9462,
+    "lng": -96.7058
+  },
+  {
+    "name": "San Antonio NE, TX",
+    "address": "11711 N Interstate 35 Suite 105",
+    "cityState": "San Antonio, TX",
+    "zip": "78233",
+    "phone": "210-276-2441",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 6:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "8:00 AM \u2013 4:00 PM"
+    },
+    "tags": [
+      "Seafood"
+    ],
+    "lat": 29.5563,
+    "lng": -98.3643
+  },
+  {
+    "name": "San Antonio, TX",
+    "address": "3333 Fredericksburg Rd",
+    "cityState": "San Antonio, TX",
+    "zip": "78201",
+    "phone": "(210) 736-3361",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 6:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "8:00 AM \u2013 4:00 PM"
+    },
+    "tags": [],
+    "lat": 29.4711,
+    "lng": -98.5356
+  },
+  {
+    "name": "Tomball, TX",
+    "address": "23815 Tomball Pkwy",
+    "cityState": "TOMBALL, TX",
+    "zip": "77375",
+    "phone": "(832)717-0944",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 6:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "8:00 AM \u2013 4:00 PM"
+    },
+    "tags": [
+      "Seafood"
+    ],
+    "lat": 30.0739,
+    "lng": -95.6201
+  },
+  {
+    "name": "Salt Lake City, UT",
+    "address": "1145 S 700 W",
+    "cityState": "Salt Lake City, UT",
+    "zip": "84104",
+    "phone": "(801) 972-2044",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 6:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "8:00 AM \u2013 4:00 PM"
+    },
+    "tags": [],
+    "lat": 40.7499,
+    "lng": -111.926
+  },
+  {
+    "name": "Alexandria, VA",
+    "address": "4600 Eisenhower Avenue",
+    "cityState": "Alexandria, VA",
+    "zip": "22304",
+    "phone": "(703) 461-4720",
+    "hours": {
+      "Mon": "6:00 AM \u2013 6:00 PM",
+      "Tue": "6:00 AM \u2013 6:00 PM",
+      "Wed": "6:00 AM \u2013 6:00 PM",
+      "Thu": "6:00 AM \u2013 7:00 PM",
+      "Fri": "6:00 AM \u2013 6:00 PM",
+      "Sat": "7:30 AM \u2013 4:00 PM",
+      "Sun": "8:00 AM \u2013 3:00 PM"
+    },
+    "tags": [],
+    "lat": 38.8149,
+    "lng": -77.121
+  },
+  {
+    "name": "Chantilly, VA",
+    "address": "4420 Brookfield Corporate Dr",
+    "cityState": "Chantilly, VA",
+    "zip": "20151",
+    "phone": "(571) 376-5050",
+    "hours": {
+      "Mon": "6:00 AM \u2013 6:00 PM",
+      "Tue": "6:00 AM \u2013 6:00 PM",
+      "Wed": "6:00 AM \u2013 6:00 PM",
+      "Thu": "6:00 AM \u2013 7:00 PM",
+      "Fri": "6:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "9:00 AM \u2013 2:00 PM"
+    },
+    "tags": [
+      "Seafood"
+    ],
+    "lat": 38.8867,
+    "lng": -77.4457
+  },
+  {
+    "name": "Richmond, VA",
+    "address": "7951 Brook Rd",
+    "cityState": "Richmond, VA",
+    "zip": "23227",
+    "phone": "(804) 266-7600",
+    "hours": {
+      "Mon": "6:00 AM \u2013 6:00 PM",
+      "Tue": "6:00 AM \u2013 6:00 PM",
+      "Wed": "6:00 AM \u2013 6:00 PM",
+      "Thu": "6:00 AM \u2013 7:00 PM",
+      "Fri": "6:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "9:00 AM \u2013 2:00 PM"
+    },
+    "tags": [
+      "Seafood"
+    ],
+    "lat": 37.6247,
+    "lng": -77.4351
+  },
+  {
+    "name": "Virginia Beach, VA",
+    "address": "5112 Virginia Beach Blvd",
+    "cityState": "Virginia Beach, VA",
+    "zip": "23462",
+    "phone": "(757) 552-9990",
+    "hours": {
+      "Mon": "6:00 AM \u2013 6:00 PM",
+      "Tue": "6:00 AM \u2013 6:00 PM",
+      "Wed": "6:00 AM \u2013 6:00 PM",
+      "Thu": "6:00 AM \u2013 7:00 PM",
+      "Fri": "6:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "8:00 AM \u2013 3:00 PM"
+    },
+    "tags": [
+      "Seafood"
+    ],
+    "lat": 36.8392,
+    "lng": -76.1522
+  },
+  {
+    "name": "Fife, WA",
+    "address": "6130 12th Street E",
+    "cityState": "Fife, WA",
+    "zip": "98424",
+    "phone": "(253) 922-4704",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 6:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 5:00 PM",
+      "Sun": "8:00 AM \u2013 4:00 PM"
+    },
+    "tags": [
+      "Seafood"
+    ],
+    "lat": 47.2325,
+    "lng": -122.3594
+  },
+  {
+    "name": "Seattle, WA",
+    "address": "3670 E Marginal Way South",
+    "cityState": "Seattle, WA",
+    "zip": "98134",
+    "phone": "(206) 381-1555",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 6:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 5:00 PM",
+      "Sun": "8:00 AM \u2013 4:00 PM"
+    },
+    "tags": [
+      "Wine & Spirits"
+    ],
+    "lat": 47.5903,
+    "lng": -122.3263
+  },
+  {
+    "name": "Woodinville, WA",
+    "address": "6219 238th Street SE",
+    "cityState": "Woodinville, WA",
+    "zip": "98072",
+    "phone": "(425) 483-5600",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 6:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 5:00 PM",
+      "Sun": "8:00 AM \u2013 4:00 PM"
+    },
+    "tags": [
+      "Wine & Spirits",
+      "Seafood"
+    ],
+    "lat": 47.7684,
+    "lng": -122.1271
+  },
+  {
+    "name": "Madison, WI",
+    "address": "6950 Gisholt Dr",
+    "cityState": "Madison, WI",
+    "zip": "53713",
+    "phone": "(608) 856-5107",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 7:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "9:00 AM \u2013 3:00 PM"
+    },
+    "tags": [
+      "Wine & Spirits"
+    ],
+    "lat": 43.0372,
+    "lng": -89.3971
+  },
+  {
+    "name": "Milwaukee, WI",
+    "address": "125 W. Becher Street",
+    "cityState": "Milwaukee, WI",
+    "zip": "53207",
+    "phone": "(414) 483-1800",
+    "hours": {
+      "Mon": "7:00 AM \u2013 6:00 PM",
+      "Tue": "7:00 AM \u2013 6:00 PM",
+      "Wed": "7:00 AM \u2013 6:00 PM",
+      "Thu": "7:00 AM \u2013 7:00 PM",
+      "Fri": "7:00 AM \u2013 6:00 PM",
+      "Sat": "7:00 AM \u2013 4:00 PM",
+      "Sun": "9:00 AM \u2013 3:00 PM"
+    },
+    "tags": [
+      "Restaurant Depot Express"
+    ],
+    "lat": 42.9751,
+    "lng": -87.8947
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "name": "Restaurant Depot",
+  "tagline": "Where Restaurants Shop",
+  "hours": "Open 7 days a week, 6am-8pm",
+  "membership": "Free membership for licensed foodservice businesses. Applications are reviewed by our team, typically within 1-2 business days.",
+  "minimumPurchase": "No minimum purchase required once approved.",
+  "categories": ["Meat & Poultry", "Fish & Seafood", "Produce", "Dairy & Cheese", "Grocery & Supplies", "Equipment"],
+  "delivery": "Curbside pickup at all warehouse locations; local delivery available in select metros.",
+  "returnPolicy": "Report any quality issues within 24 hours of pickup for a full credit."
+}
