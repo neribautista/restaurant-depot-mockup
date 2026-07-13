@@ -1,12 +1,12 @@
 "use client";
 
+import { Suspense } from "react";
 import Link from "next/link";
 import { useSearchParams } from "next/navigation";
 import { useRef, useState } from "react";
 
-const MAX_FILE_SIZE = 10 * 1024 * 1024; // 10 MB per file
+const MAX_FILE_SIZE = 10 * 1024 * 1024;
 const MAX_FILES = 5;
-
 const ALLOWED_EXTENSIONS = ["pdf", "csv", "zip"];
 
 const EMPTY_FORM = {
@@ -27,32 +27,29 @@ function formatFileSize(bytes) {
   if (bytes < 1024) {
     return `${bytes} B`;
   }
-
   if (bytes < 1024 * 1024) {
     return `${(bytes / 1024).toFixed(1)} KB`;
   }
-
   return `${(bytes / (1024 * 1024)).toFixed(1)} MB`;
 }
 
-export default function SupplierUpdatePage() {
+function SupplierUpdatePageContent() {
   const fileInputRef = useRef(null);
-
   const searchParams = useSearchParams();
-  const [selectedFiles, setSelectedFiles] = useState([]);
-  const [fileError, setFileError] = useState("");
-  const [submitError, setSubmitError] = useState("");
-  const [submitted, setSubmitted] = useState(false);
-  const [submitting, setSubmitting] = useState(false);
+  
   const [formData, setFormData] = useState(() => ({
     ...EMPTY_FORM,
     name: searchParams.get("name") || "",
     email: searchParams.get("email") || "",
   }));
+  const [selectedFiles, setSelectedFiles] = useState([]);
+  const [fileError, setFileError] = useState("");
+  const [submitError, setSubmitError] = useState("");
+  const [submitted, setSubmitted] = useState(false);
+  const [submitting, setSubmitting] = useState(false);
 
   const handleChange = (event) => {
     const { name, value } = event.target;
-
     setFormData((previous) => ({
       ...previous,
       [name]: value,
@@ -61,7 +58,6 @@ export default function SupplierUpdatePage() {
 
   const handleFileChange = (event) => {
     const incomingFiles = Array.from(event.target.files || []);
-
     setFileError("");
 
     if (incomingFiles.length === 0) {
@@ -112,7 +108,6 @@ export default function SupplierUpdatePage() {
       ...validFiles,
     ]);
 
-    // Allows the same file to be selected again after removal.
     event.target.value = "";
   };
 
@@ -120,13 +115,11 @@ export default function SupplierUpdatePage() {
     setSelectedFiles((previous) =>
       previous.filter((_, index) => index !== fileIndex)
     );
-
     setFileError("");
   };
 
   const handleSubmit = async (event) => {
     event.preventDefault();
-
     setSubmitError("");
     setFileError("");
 
@@ -134,7 +127,6 @@ export default function SupplierUpdatePage() {
       setFileError(
         "Please attach at least one supplier invoice or purchasing file."
       );
-
       fileInputRef.current?.focus();
       return;
     }
@@ -142,11 +134,6 @@ export default function SupplierUpdatePage() {
     setSubmitting(true);
 
     try {
-      /*
-       * FormData supports both normal form fields and uploaded files.
-       * Replace the demo behavior below with a real API call when your
-       * backend is ready.
-       */
       const requestData = new FormData();
 
       Object.entries(formData).forEach(([key, value]) => {
@@ -156,19 +143,6 @@ export default function SupplierUpdatePage() {
       selectedFiles.forEach((file) => {
         requestData.append("files", file);
       });
-
-      /*
-       * Example backend request:
-       *
-       * const response = await fetch("/api/savings-analysis", {
-       *   method: "POST",
-       *   body: requestData,
-       * });
-       *
-       * if (!response.ok) {
-       *   throw new Error("Unable to submit your request.");
-       * }
-       */
 
       console.log("Savings analysis request:", {
         ...formData,
@@ -182,7 +156,6 @@ export default function SupplierUpdatePage() {
       setSubmitted(true);
     } catch (error) {
       console.error("Unable to submit analysis request:", error);
-
       setSubmitError(
         error.message ||
           "Unable to submit your request. Please try again."
@@ -372,25 +345,11 @@ export default function SupplierUpdatePage() {
                       onChange={handleChange}
                       className="w-full rounded-sm border border-navy/20 bg-white px-4 py-3 text-sm text-ink focus:border-gold focus:outline-none"
                     >
-                      <option value="">
-                        Select a range
-                      </option>
-
-                      <option value="under-5000">
-                        Under $5,000
-                      </option>
-
-                      <option value="5000-15000">
-                        $5,000–$15,000
-                      </option>
-
-                      <option value="15000-50000">
-                        $15,000–$50,000
-                      </option>
-
-                      <option value="over-50000">
-                        More than $50,000
-                      </option>
+                      <option value="">Select a range</option>
+                      <option value="under-5000">Under $5,000</option>
+                      <option value="5000-15000">$5,000–$15,000</option>
+                      <option value="15000-50000">$15,000–$50,000</option>
+                      <option value="over-50000">More than $50,000</option>
                     </select>
                   </div>
                 </div>
@@ -599,5 +558,14 @@ function FormField({
         className="w-full rounded-sm border border-navy/20 px-4 py-3 text-sm text-ink focus:border-gold focus:outline-none"
       />
     </div>
+  );
+}
+
+// Main export with Suspense
+export default function SupplierUpdatePage() {
+  return (
+    <Suspense fallback={<div className="bg-cream min-h-screen flex items-center justify-center">Loading...</div>}>
+      <SupplierUpdatePageContent />
+    </Suspense>
   );
 }
